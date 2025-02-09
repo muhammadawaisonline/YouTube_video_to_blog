@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "yt-to-blog"
+version = "0.1"
+description = "Youtube video tyo Blog Posts"
+authors = ["Muhammad Awais"]
+license = "MA 1.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
